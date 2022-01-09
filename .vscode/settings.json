@@ -19,6 +19,26 @@
         "ostream": "cpp",
         "streambuf": "cpp",
         "type_traits": "cpp",
-        "typeinfo": "cpp"
+        "typeinfo": "cpp",
+        "array": "cpp",
+        "atomic": "cpp",
+        "chrono": "cpp",
+        "cmath": "cpp",
+        "csetjmp": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "fstream": "cpp",
+        "functional": "cpp",
+        "numeric": "cpp",
+        "ratio": "cpp",
+        "sstream": "cpp",
+        "stdexcept": "cpp",
+        "cinttypes": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp"
     }
 }

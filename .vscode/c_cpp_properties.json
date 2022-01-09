@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/Qt5.9.9/5.9.9/gcc_64/include/**",
+                "/opt/Qt5.9.9/5.9.9/gcc_64/include/QtWidgets",
+                "${workspaceFolder}/NinthChapter/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c89",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
